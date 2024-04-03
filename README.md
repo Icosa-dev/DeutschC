@@ -38,7 +38,7 @@ Um DeutschC zu installieren, müssen Sie die src-Datei im Repository herunterlad
 für jedes Projekt, in dem Sie es verwenden werden. Beispiel:
 ```
 MeinProjekt/
-├── hauptsachlich.c
+├── hauptsaechlich.c
 ├── deutsch.h
 └── deutsch/
     └── (deutschc headers)
