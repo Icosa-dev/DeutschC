@@ -1,11 +1,6 @@
 // macro definition for control flow keywords translated to german
 // makrodefinition fur kontrollflussschlusselworter ins deutsche ubersetzt
 
-#ifdef _DEUTSCH_CONTROLFLOW_H
-    #error "deutsch/controlflow.h included twice"
-    #error "deutsch/control.h zweimal enthalten"
-#endif
-
 #ifndef _DEUTSCH_CONTROLFLOW_H
     #define _DEUTSCH_CONTROLFLOW_H
 
