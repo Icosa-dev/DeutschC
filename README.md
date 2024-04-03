@@ -1,6 +1,5 @@
 <p align="center">
     ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
-    ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
 </p>
 
 # DeutschC
