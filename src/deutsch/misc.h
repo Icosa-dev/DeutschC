@@ -13,11 +13,11 @@
         #define registrieren register
     #endif
     
-    #ifndef fluchtig
-        #define fluchtig volatile
+    #ifndef fluechtig
+        #define fluechtig volatile
     #endif
     
-    #ifndef haupstachlich
-        #define haupstachlich main
+    #ifndef hauptsächlich
+        #define hauptsaechlich main
     #endif
 #endif

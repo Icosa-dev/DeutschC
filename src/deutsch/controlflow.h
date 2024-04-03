@@ -33,8 +33,8 @@
         #define anders else
     #endif
     
-    #ifndef fur
-        #define fur for
+    #ifndef fuer
+        #define fuer for
     #endif
     
     #ifndef gehenzu
@@ -45,8 +45,8 @@
         #define wenn if
     #endif
 
-    #ifndef zuruckkehren
-        #define zuruckkehren return
+    #ifndef zurueckkehren
+        #define zurueckkehren return
     #endif
 
     #ifndef schalten

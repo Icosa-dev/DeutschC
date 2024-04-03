@@ -18,7 +18,7 @@ MyProject/
 ```
 
 ## Usage
-To use DeutschC you will need to include the deutsch.h header to your program with ```#include "deutsch.h"```. Then you can create the rest of your program in german. To find keywords and their translation you can check the deutsch directory, use ctrl+m1 in VSCode, or just check the repository.
+To use DeutschC you will need to include the deutsch.h header to your program with ```#include "deutsch.h"```. Then you can create the rest of your program in German. To find keywords and their translation you can check the deutsch directory, use ctrl+m1 in VSCode, or just check the repository.
 Note: preprocessor directives and functions defined by libraries such as the standard library are not translated.
 
 Example program:
@@ -26,13 +26,13 @@ Example program:
 #include "deutsch.h"
 #include <stdio.h>
 
-ganze haupstachlich(ganze argc, zeichen* argv[]) {
+ganze haupstaechlich(ganze argc, zeichen* argv[]) {
     printf("Hallo Welt! \n");
-    zuruckkehren 0;
+    zurueckkehren 0;
 }
 ```
 
-I am not very good with german and initially just used alot of google translate for the translations. So if you think
+I am not very good with German and initially just used a lot of Google Translate for the translations. So if you think
 a keyword should be changed then open a problem or pull request. <3
 
 # DeutschC

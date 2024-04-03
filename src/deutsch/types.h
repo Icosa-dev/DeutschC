@@ -49,8 +49,8 @@
         #define typdef typedef
     #endif
 
-    #ifndef ungultig
-        #define ungultig void
+    #ifndef ungueltig
+        #define ungueltig void
     #endif
 
     
