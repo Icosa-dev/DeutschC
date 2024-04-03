@@ -1,11 +1,6 @@
 // macro definition for datatypes translated to german
 // makrodefinition fur datentypen ins deutsche ubersetzt
 
-#ifdef _DEUTSCH_TYPES_H
-    #error "deutsch/types.h included twice"
-    #error "deutsch/types.h zweimal enthalten"
-#endif
-
 #ifndef _DEUTSCH_TYPES_H
     #define _DEUTSCH_TYPES_H
 
