@@ -1,8 +1,8 @@
 // macro definition for control flow keywords translated to german
 // makrodefinition fur kontrollflussschlusselworter ins deutsche ubersetzt
 
-#ifndef _DEUTSCH_CONTROLFLOW_H
-    #define _DEUTSCH_CONTROLFLOW_H
+#ifndef DEUTSCH_CONTROLFLOW_H
+    #define DEUTSCH_CONTROLFLOW_H
 
     #ifndef brechen
         #define brechen break
@@ -56,4 +56,4 @@
         #define vorzeichen signed
     #endif
 
-#endif // _DEUTSCH_CONTROLFLOW_H
+#endif // DEUTSCH_CONTROLFLOW_H
