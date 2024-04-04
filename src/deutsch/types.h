@@ -1,8 +1,8 @@
 // macro definition for datatypes translated to german
 // makrodefinition fur datentypen ins deutsche ubersetzt
 
-#ifndef _DEUTSCH_TYPES_H
-    #define _DEUTSCH_TYPES_H
+#ifndef DEUTSCH_TYPES_H
+    #define DEUTSCH_TYPES_H
 
     #ifndef konst
         #define konst const
@@ -50,4 +50,4 @@
 
     
 
-#endif // _DEUTSCH_TYPES_H
+#endif // DEUTSCH_TYPES_H
